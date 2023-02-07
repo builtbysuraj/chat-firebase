@@ -1,4 +1,4 @@
-# chat-firebase
+# chat firebase
 ![image](https://user-images.githubusercontent.com/77146598/217278348-3af5c956-47cf-45d9-bf4b-181f650f1fdb.png)
 
 ### Real-time chat app using Firebase.
