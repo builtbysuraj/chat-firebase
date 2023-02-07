@@ -10,3 +10,6 @@
 ### Through one-to-one image-sharing functionality.
 
 ### No delay in the chat appearance.
+
+## Future:
+Fixing some bugs
